@@ -1,0 +1,4 @@
+#Wed Oct 09 20:18:40 EEST 2024
+base.0=C\:\\Users\\Dima\\StudioProjects\\lab6\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
