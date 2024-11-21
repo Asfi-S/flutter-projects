@@ -1,0 +1,1 @@
+ C:\\Users\\Dima\\StudioProjects\\lab8\\.dart_tool\\flutter_build\\6956449c9cc875453e94ea991881ded4\\native_assets.yaml: 
